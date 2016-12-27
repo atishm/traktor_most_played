@@ -4,7 +4,7 @@
 
 My Traktor history directory is here: python most-played.py ~/Documents/Native\ Instruments/Traktor\ 2.11.0/History/
 So my command-line looks like:
-python most-played.py ~/Documents/Native\ Instruments/Traktor\ 2.11.0/History/
+python most-played.py ~/Documents/Native\ Instruments/Traktor\ 2.11.0/History/ 2016
 """
 
 import sys

@@ -11,8 +11,8 @@ No installation required, just run the script!
 ### Running
 Here's an example of how I run this from my machine:
 ```
-python most-played.py ~/Documents/Native\ Instruments/Traktor\ 2.11.0/History/
+python most-played.py ~/Documents/Native\ Instruments/Traktor\ 2.11.0/History/ 2016
 ```
 
 ### License
-This project is licensed under the GNU General Public License v2.0
+This project is licensed under the GNU General Public License v2.0 - See LICENSE.md for more info
